@@ -38,7 +38,8 @@
         const currentPage = window.location.pathname.split('/').pop();
         const links = navElement.querySelectorAll('.nav-link');
         links.forEach(link => {
-            if (link.getAttribute('href') === currentPage) {
+            console.log(link.getAttribute('href').split('/').pop() + " " + currentPage);
+            if (link.getAttribute('href').split('/').pop() === currentPage) {
                 link.classList.add('active');
             }
         });

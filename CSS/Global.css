@@ -1,0 +1,45 @@
+body{
+    background-color: #faf7f0;
+    font-family: "Noto Sans SC", sans-serif;
+    font-optical-sizing: auto;
+}
+
+/* Color */
+
+.color-first{
+    color: #faf7f0;
+}
+
+.color-second{
+    color: #d8d2c2;
+}
+
+.color-third{
+    color: #B17457;
+}
+
+.color-fourth{
+    color: #4A4947;
+}
+
+/* Background Color */
+
+.bg-color-first{
+    background-color: #faf7f0;
+}
+
+.bg-color-second{
+    background-color: #d8d2c2;
+}
+
+.bg-color-third{
+    background-color: #B17457;
+}
+
+.bg-color-fourth{
+    background-color: #4A4947;
+}
+
+.navbar-nav > li.nav-item > a.active{
+    color: #B17457;
+}

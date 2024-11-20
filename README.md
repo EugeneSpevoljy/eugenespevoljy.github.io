@@ -1,11 +1,10 @@
 # eugenespevoljy.github.io
 
-what i want to do 
+## Home Page 
+  To Show my article and image 
 
-create same funtion web page in two way first with a original taste of html(maybe use bootstrap 5) and second using react.js 
+## About Page
+  To Show my Profile 
 
-in this page it will have
-
-a page to share my life (some artilce with images)
-a page to show my tools with login method 
-a page to show my current profile 
+## Service Page
+  Show Index of the tool of services
